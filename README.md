@@ -1,5 +1,5 @@
 ## Hi, I'm Tabib
 - 🌱 Data Scientist, ML/AI Engineer
 - 💻 Studied Computer Engineering in Çanakkale Onsekiz Mart University
-- 📫 tabibyte@protonmail.com
-- 🌐 tabibyte.github.io
+- 📫 [tabibyte@protonmail.com](https://tabibyte@protonmail.com/)
+- 🌐 [tabibyte.github.io](https://tabibyte.github.io/)

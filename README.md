@@ -4,4 +4,4 @@
 - 📫 [tabibyte@protonmail.com](https://tabibyte@protonmail.com/)
 - 🌐 [tabibyte.github.io](https://tabibyte.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabibyte&size_weight=0.5&hide=jupyter%20notebook&count_weight=2&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/tabibyte)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabibyte&size_weight=0.5&hide=jupyter%20notebook&hide=vue&count_weight=2&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/tabibyte)
